@@ -37,8 +37,8 @@
 		"live": "grunt live",
 		"code": "grunt code"
 	},
-	"engines" : {
-		"node" : ">=0.10.0",
-		"npm" : ">=3.0.0"
+	"engines": {
+		"node": ">=0.10.0",
+		"npm": ">=3.0.0"
 	}
 }
